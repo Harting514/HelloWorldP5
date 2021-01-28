@@ -1,6 +1,6 @@
 ## Hello World
-#### by Scott Kildall
-
+#### by Yik Ting Hung
+Jan 28th, 2021
 
 
 ### Overview
